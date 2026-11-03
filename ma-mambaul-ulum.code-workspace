@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "C:/laragon/www/ma-mambaul-ulum"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Latihan"
+  }
+}
